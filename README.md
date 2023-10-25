@@ -32,3 +32,7 @@ The code answers specific questions related to the dataset:
 2. Analyzing the change in global population distribution across continents from 1970 to 2022.
 3. Determining which countries have experienced the most significant population growth and decline from 2015 to 2022.
 4. The answers to these questions are provided through data analysis and visualizations.
+
+## Data Export
+
+The dataset containing the average population growth by continent from 1970-2022 is exported to a CSV file named 'Continents.csv' for further analysis or reporting.
