@@ -20,7 +20,7 @@ The data cleaning section checks for null values in the dataset and confirms tha
 
 This part of the code creates various visualizations to help us understand the dataset:
 
-1. A heatmap of correlation within the dataset, which shows how different attributes are related.
+1. A world population map displaying the distribution of the global population in 1970 and 2022, illustrating the concentration of people across these two distinct time periods.
 2. A graph displaying the mean population growth by continent, giving insights into population trends.
 3. A boxplot to illustrate the distribution of data in the dataset, highlighting any outliers.
    
